@@ -1,0 +1,33 @@
+_repo: The-Bow-of-Orange-Ribbon--A-Romance-of-New-York_17173
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hampe, Theo.
+    gutenberg_agent_id: '7193'
+    url: http://www.gutenberg.org/2009/agents/7193
+covers:
+- cover_type: archival
+  image_path: 17173-h/images/cover-0426-1.jpg
+creator:
+  author:
+    agent_name: Barr, Amelia E.
+    alias: Barr, Amelia Edith Huddleston
+    birthdate: 1831
+    deathdate: 1919
+    gutenberg_agent_id: '2199'
+    url: http://www.gutenberg.org/2009/agents/2199
+    wikipedia: http://en.wikipedia.org/wiki/Amelia_Edith_Huddleston_Barr
+description: 'Sequel: The Maid of Maiden Lane.'
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17173'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+title: 'The Bow of Orange Ribbon: A Romance of New York'
+url: http://www.gutenberg.org/ebooks/17173
